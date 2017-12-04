@@ -1,0 +1,34 @@
+*-*-*-*-*-*-*-*-N-E-W- -S-E-S-S-I-O-N-*-*-*-*-*-*-*-*
+2017-11-30 10:10:48:623716,Instruction:,"NumberOfStart:
+1
+ChildName:
+Esther
+HandMoveSpeed:
+0.06
+ReadDelay:
+0.02
+ReadSpeed:
+70
+ReactionDelay:
+1
+
+
+# Hand move speed and read delay possible combinations 
+
+Beginner Level: 0.05 0.1 0.7 1
+
+
+Medium Level: 0.06 0.1 85 1 
+
+Medium Level: 0.075 0.03 80 1 
+
+High Level: 0.095 0 90 1"
+2017-11-30 10:10:48:623915,Child Name:,Esther
+2017-11-30 10:10:48:624135,Reading speed:,0.06with0.06delay
+2017-11-30 10:10:49:127523,On or OFF:,Face Tracking is OFF
+2017-11-30 10:10:49:971053,On or OFF:,Face Tracking is ON
+2017-11-30 10:10:50:474989,Robot State:,Introduce Nao Started
+2017-11-30 10:11:07:267501,Instruction:,"\rspd=90\ Hello Esther\pau=700\ My name is Nao \pau=500\ I really like reading short stories\rspd=90\ Do you want to listen to them?\rspd=90\ sometimes I make mistakes, can you help me to correct them?\rspd=90\ If you want to read with me, please bring the book"
+2017-11-30 10:11:07:767746,Robot State:,Introduce Nao Ended
+2017-11-30 10:11:08:030928,On or OFF:,Face Tracking is OFF
+2017-11-30 10:11:09:047152,Robot State:,Looking at The Book
