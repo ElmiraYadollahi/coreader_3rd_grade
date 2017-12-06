@@ -76,8 +76,11 @@ class WORDPROCESSING:
 		print taskLevel
 		#with open('all_stories_en.txt') as f:
 			#lines_array = f.read().splitlines()
+		
 
-		if taskLevel['CurrLevel'] == "TaskONE":
+		story_file = rospy.get_param('~stories_stage')
+		lines_array = story_file.splitlines()
+		"""if taskLevel['CurrLevel'] == "TaskONE":
 			with open('stories_stage_7_9.txt') as f:
 				lines_array = f.read().splitlines()
 
@@ -87,7 +90,7 @@ class WORDPROCESSING:
 
 		if taskLevel['CurrLevel'] == "TaskTHREE":
 			with open('all_stories_three_en.txt') as f:
-				lines_array = f.read().splitlines()
+				lines_array = f.read().splitlines()"""
 
 
 		#for line in lines_array:

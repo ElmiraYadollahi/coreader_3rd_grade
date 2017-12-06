@@ -1,0 +1,43 @@
+*-*-*-*-*-*-*-*-N-E-W- -S-E-S-S-I-O-N-*-*-*-*-*-*-*-*
+2017-12-04 19:25:02:343005,Instruction:,"NumberOfStart:
+2
+ChildName:
+test
+HandMoveSpeed:
+0.06
+ReadDelay:
+0
+ReadSpeed:
+80
+ReactionDelay:
+1
+HandPoint:
+point
+WhichPage:
+Right
+CorrectionState:
+True
+
+
+
+
+# Hand move speed and read delay possible combinations 
+
+Beginner Level: 0.05 0.1 0.7 1
+
+
+Medium Level: 0.06 0.1 85 1 
+
+Medium Level: 0.075 0.03 80 1 
+
+High Level: 0.095 0 90 1"
+2017-12-04 19:25:02:343603,Reading speed:,0.06with0.06delay
+2017-12-04 19:25:02:343466,Child Name:,test
+2017-12-04 19:25:02:347461,On or OFF:,Face Tracking is OFF
+2017-12-04 19:25:02:884816,On or OFF:,Face Tracking is ON
+2017-12-04 19:25:03:387332,Robot State:,Introduce Nao Started
+2017-12-04 19:25:04:865430,Robot State:,Looking at The Book
+2017-12-04 19:25:06:282311,Instruction:,\rspd=90\ 
+2017-12-04 19:25:06:782950,Robot State:,Introduce Nao Ended
+2017-12-04 19:25:07:263130,On or OFF:,Face Tracking is OFF
+2017-12-04 19:25:08:283314,Robot State:,Looking at The Book

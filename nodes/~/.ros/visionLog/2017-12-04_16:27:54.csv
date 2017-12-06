@@ -1,0 +1,526 @@
+*-*-*-*-*-*-*-*-N-E-W- -S-E-S-S-I-O-N-*-*-*-*-*-*-*-*
+2017-12-04 16:27:54:063836,Reading speed:,0.06with0.06delay
+2017-12-04 16:27:54:063908,Instruction:,"NumberOfStart:
+1
+ChildName:
+test
+HandMoveSpeed:
+0.06
+ReadDelay:
+0
+ReadSpeed:
+80
+ReactionDelay:
+1
+HandPoint:
+
+
+
+
+# Hand move speed and read delay possible combinations 
+
+Beginner Level: 0.05 0.1 0.7 1
+
+
+Medium Level: 0.06 0.1 85 1 
+
+Medium Level: 0.075 0.03 80 1 
+
+High Level: 0.095 0 90 1"
+2017-12-04 16:27:54:063963,Child Name:,test
+2017-12-04 16:27:54:071457,On or OFF:,Face Tracking is OFF
+2017-12-04 16:27:55:088559,Robot State:,Looking at The Book
+2017-12-04 16:27:56:256041,On or OFF:,Face Tracking is ON
+2017-12-04 16:27:56:758743,Robot State:,Introduce Nao Started
+2017-12-04 16:28:13:683665,Instruction:,"\rspd=90\ Hello test\pau=700\ My name is Nao \pau=500\ I really like reading short stories\rspd=90\ Do you want to listen to them?\rspd=90\ sometimes I make mistakes, can you help me to correct them?\rspd=90\ If you want to read with me, please bring the book"
+2017-12-04 16:28:14:184447,Robot State:,Introduce Nao Ended
+2017-12-04 16:28:14:385278,On or OFF:,Face Tracking is OFF
+2017-12-04 16:28:15:407286,Robot State:,Looking at The Book
+2017-12-04 16:28:16:005897,Robot State:,TaskONE Selected
+2017-12-04 16:28:17:028977,Robot State:,Looking at The Book
+2017-12-04 16:28:17:542286,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:548226,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:548376,Current State of Reading: ,False
+2017-12-04 16:28:17:557547,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:558198,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:558942,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:559033,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:559308,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:559356,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:559406,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:560311,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:560255,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:561041,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:561148,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:561234,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:561720,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:561912,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:562157,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:562205,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:562820,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:562890,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:562957,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:563109,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:563152,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:563603,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:563981,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:564151,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:564217,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:564734,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:564858,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:564956,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:565231,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:565540,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:565425,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:565997,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:566242,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:566123,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:566564,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:566803,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:566922,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:567018,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:567491,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:567399,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:568135,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:568377,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:568774,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:569693,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:570372,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:603679,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:603982,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:604067,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:715153,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:716599,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:716775,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:816997,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:817716,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:818100,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:17:917110,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:17:918209,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:17:917572,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:011694,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:18:011919,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:012300,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:18:116273,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:18:115404,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:18:116599,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:209955,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:18:211087,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:211514,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:18:303299,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:18:303477,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:303624,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:18:403099,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:18:403596,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:403682,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:18:503233,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:18:503721,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:18:503833,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:606047,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:18:606467,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:18:606605,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:713889,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:18:715335,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:18:715680,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:817762,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:18:819863,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:18:820168,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:915262,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:18:917131,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:18:916765,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:19:015552,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:19:016402,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:19:016689,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:19:116010,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:19:116315,Body Gesture:,Not Pointing
+2017-12-04 16:28:19:117367,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:19:117872,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:19:124613,Robot State:,Reading Mode Started
+2017-12-04 16:28:19:124977,Current State of Correction: ,False
+2017-12-04 16:28:19:216026,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:19:216394,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:19:216707,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:19:314010,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:19:314229,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:19:314581,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:19:410481,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:19:411356,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:19:411655,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:19:509611,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:19:510784,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:19:510964,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:19:538127,Robot Hand Pose: ,"x: 0.0837459564209
+y: 0.117508664727
+z: 0.142888039351
+x: -1.02459955215
+y: 0.84644651413
+z: -0.0195238254964
+w: 1.0"
+2017-12-04 16:28:19:538895,Current Word:,\rspd=80\  Red planet
+2017-12-04 16:28:19:542711,Robot State:,0.0
+2017-12-04 16:28:19:718965,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:19:719524,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:19:719736,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:19:805648,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:19:805553,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:19:805768,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:19:906263,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:19:906460,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:19:906532,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:20:006075,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:20:006670,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:20:006787,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:20:106889,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:20:107226,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:20:107336,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:20:210423,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:20:211148,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:20:211481,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:20:318362,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:20:320584,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:20:320783,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:20:403118,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:20:403629,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:20:403583,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:20:510866,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:20:511881,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:20:512236,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:20:611051,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:20:612324,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:20:612218,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:20:667774,Robot State:,Looking at The Book
+2017-12-04 16:28:20:712586,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:20:712833,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:20:712962,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:20:804427,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:20:804775,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:20:804875,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:20:904049,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:20:904295,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:20:904357,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:21:003199,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:21:002787,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:21:003336,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:21:219240,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:21:219591,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:21:219674,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:21:309986,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:21:310277,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:21:310460,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:21:415067,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:21:416136,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:21:416401,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:21:518380,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:21:519732,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:21:519982,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:21:607113,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:21:607480,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:21:607705,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:21:717181,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:21:718271,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:21:718587,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:21:816685,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:21:817740,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:21:818109,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:21:914291,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:21:914764,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:21:914910,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:22:005093,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:22:005790,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:22:005917,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:22:111090,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:22:112062,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:22:112605,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:22:212906,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:22:213620,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:22:213469,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:22:317893,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:22:318139,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:22:414093,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:22:414891,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:22:415438,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:22:505897,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:22:507084,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:22:506956,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:22:612663,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:22:613787,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:22:614088,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:22:716684,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:22:716892,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:22:717039,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:22:804275,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:22:804857,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:22:805016,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:22:903470,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:22:903693,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:22:903766,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:23:003555,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:23:003815,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:23:003955,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:23:117906,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:23:119450,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:23:120128,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:23:215445,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:23:216846,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:23:217168,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:23:309277,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:23:310335,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:23:310633,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:23:415487,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:23:416534,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:23:416772,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:23:513214,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:23:517385,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:23:517833,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:23:615276,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:23:616983,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:23:617224,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:23:666678,Robot State:,Looking at The Book
+2017-12-04 16:28:23:717683,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:23:718742,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:23:718587,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:23:816228,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:23:817992,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:23:817830,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:23:915298,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:23:915872,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:23:916004,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:015067,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:24:015454,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:015824,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:24:116207,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:115677,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:24:116564,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:24:207553,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:24:208018,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:208170,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:24:303543,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:24:303715,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:303955,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:24:403603,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:24:403758,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:24:403858,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:503323,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:24:503659,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:24:503800,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:614183,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:24:615218,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:24:615695,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:714592,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:24:716041,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:716220,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:24:815331,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:24:815651,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:816036,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:24:910022,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:24:910152,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:24:910328,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:25:005089,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:25:005591,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:25:005637,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:25:103320,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:25:103767,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:25:103847,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:25:203384,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:25:203885,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:25:203964,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:25:307588,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:25:308440,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:25:308504,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:25:411319,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:25:412585,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:25:412875,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:25:512676,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:25:513780,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:25:513981,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:25:608707,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:25:609046,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:25:609183,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:25:714659,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:25:716430,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:25:716604,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:25:805371,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:25:806121,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:25:806271,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:25:903583,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:25:903981,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:25:904096,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:26:003344,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:26:003652,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:26:003745,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:26:103290,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:26:103881,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:26:103936,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:26:203472,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:26:203821,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:26:203696,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:26:314650,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:26:316611,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:26:316994,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:26:416160,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:26:416515,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:26:517110,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:26:517957,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:26:518317,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:26:616770,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:26:617016,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:26:617262,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:26:716196,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:26:716632,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:26:716763,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:26:816623,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:26:817544,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:26:817965,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:26:913253,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:26:914922,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:26:915182,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:005796,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:27:006060,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:006257,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:27:112376,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:27:112763,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:113020,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:27:213083,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:27:213748,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:27:214045,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:313554,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:27:315189,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:27:315344,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:407900,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:27:407980,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:27:408136,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:503073,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:27:503480,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:503574,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:27:603044,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:27:603778,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:603993,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:27:715394,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:27:716720,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:27:716979,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:814252,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:27:816080,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:27:816413,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:918517,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:27:920524,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:27:921210,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:28:006829,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:28:007647,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:28:007849,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:28:107237,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:28:108054,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:28:108192,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:28:215983,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:28:218304,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:28:218447,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:28:304979,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:28:305723,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:28:305834,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:28:403809,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:28:404079,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:28:404192,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:28:503687,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:28:504136,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:28:504284,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:28:616908,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:28:617180,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:28:711432,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:28:712665,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:28:712960,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:28:811727,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:28:812872,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:28:812700,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:28:908112,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:28:908668,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:28:908586,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:014705,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:29:016682,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:016543,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:29:105759,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:29:105999,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:29:105954,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:205551,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:29:205922,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:29:206029,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:303691,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:29:304456,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:29:304398,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:416616,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:29:417653,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:417997,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:29:503810,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:29:504260,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:29:504146,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:614707,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:29:615864,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:616293,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:29:713497,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:29:714241,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:714480,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:29:816423,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:29:816970,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:29:817516,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:907368,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:29:907903,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:29:907837,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:30:005991,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:30:006497,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:30:006607,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:30:106033,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:30:106127,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:30:106243,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:30:204137,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:30:204384,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:30:204479,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:30:317558,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:30:318602,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:30:319340,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:30:415515,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:30:415838,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:30:415956,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:30:519898,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:30:520994,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:30:521291,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:30:617267,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:30:618885,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:30:619366,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:30:717570,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:30:717967,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:30:718401,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:30:817865,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:30:819162,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:30:819054,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:30:915206,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:30:916298,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:30:916922,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:31:011442,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:31:012083,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:31:012406,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:31:111203,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:31:111593,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:31:217057,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:31:217367,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:31:217492,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:31:303123,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:31:303582,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:31:303789,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:31:403157,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:31:403463,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:31:403390,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:31:513979,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:31:515114,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:31:515294,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:31:603674,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:31:603911,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:31:604047,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:31:703243,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:31:703836,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:31:703930,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:31:803157,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:31:803817,Current State of Reading: ,Waiting for Red-card
+2017-12-04 16:28:31:803759,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:31:917661,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:31:917917,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:32:013256,Detected ARTags: ,"30, 31"
+2017-12-04 16:28:32:014065,Detected ARTags: ,"[30, 31]"
+2017-12-04 16:28:32:014233,Current State of Reading: ,Waiting for Red-card

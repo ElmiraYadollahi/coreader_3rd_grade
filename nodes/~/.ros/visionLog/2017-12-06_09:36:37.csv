@@ -1,0 +1,62 @@
+*-*-*-*-*-*-*-*-N-E-W- -S-E-S-S-I-O-N-*-*-*-*-*-*-*-*
+2017-12-06 09:36:37:895853,Instruction:,"NumberOfStart:
+2
+ChildName:
+test
+HandMoveSpeed:
+0.06
+ReadDelay:
+0
+ReadSpeed:
+70
+ReactionDelay:
+1
+HandPoint:
+
+WhichPage:
+Right
+CorrectionState: Default=False
+False
+
+
+
+
+# Hand move speed and read delay possible combinations 
+
+Beginner Level: 0.05 0.1 0.7 1
+
+
+Medium Level: 0.06 0.1 85 1 
+
+Medium Level: 0.075 0.03 80 1 
+
+High Level: 0.095 0 90 1"
+2017-12-06 09:36:37:896441,Reading speed:,0.06with0.06delay
+2017-12-06 09:36:37:907212,On or OFF:,Face Tracking is OFF
+2017-12-06 09:36:38:689413,On or OFF:,Face Tracking is ON
+2017-12-06 09:36:39:192772,Robot State:,Introduce Nao Started
+2017-12-06 09:36:40:682052,Robot State:,Looking at The Book
+2017-12-06 09:36:44:916527,Instruction:,\rspd=90\ 
+2017-12-06 09:36:45:416983,Robot State:,Introduce Nao Ended
+2017-12-06 09:36:45:950367,On or OFF:,Face Tracking is OFF
+2017-12-06 09:36:46:960765,Robot State:,Looking at The Book
+2017-12-06 09:36:47:591770,Robot State:,TaskONE Selected
+2017-12-06 09:36:48:600819,Robot State:,Looking at The Book
+2017-12-06 09:36:49:105610,Detected ARTags: ,"41, 42, 43, 44"
+2017-12-06 09:36:49:111881,Detected ARTags: ,"[ 43, 44]"
+2017-12-06 09:36:49:111992,Current State of Reading: ,False
+2017-12-06 09:36:49:115589,Detected ARTags: ,"41, 42, 43, 44"
+2017-12-06 09:36:49:115944,Detected ARTags: ,"[ 43, 44]"
+2017-12-06 09:36:49:116124,Current State of Reading: ,Waiting for Red-card
+2017-12-06 09:36:49:116172,Detected ARTags: ,"41, 42, 43, 44"
+2017-12-06 09:36:49:116376,Detected ARTags: ,"[ 43, 44]"
+2017-12-06 09:36:49:116521,Current State of Reading: ,Waiting for Red-card
+2017-12-06 09:36:49:117080,Current State of Reading: ,Waiting for Red-card
+2017-12-06 09:36:49:116934,Detected ARTags: ,"41, 42, 43, 44"
+2017-12-06 09:36:49:117527,Detected ARTags: ,"[ 43, 44]"
+2017-12-06 09:36:49:117641,Detected ARTags: ,"41, 42, 43, 44"
+2017-12-06 09:36:49:117735,Detected ARTags: ,"[ 43, 44]"
+2017-12-06 09:36:49:117894,Current State of Reading: ,Waiting for Red-card
+2017-12-06 09:36:49:118223,Detected ARTags: ,"41, 42, 43, 44"
+2017-12-06 09:36:49:118437,Current State of Reading: ,Waiting for Red-card
+2017-12-06 09:36:49:118513,Detected ARTags: ,"[ 43, 44]"

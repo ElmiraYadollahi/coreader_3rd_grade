@@ -1,0 +1,81 @@
+*-*-*-*-*-*-*-*-N-E-W- -S-E-S-S-I-O-N-*-*-*-*-*-*-*-*
+2017-12-04 17:19:14:748887,Reading speed:,0.06with0.06delay
+2017-12-04 17:19:14:749174,Child Name:,test
+2017-12-04 17:19:14:748820,Instruction:,"NumberOfStart:
+2
+ChildName:
+test
+HandMoveSpeed:
+0.06
+ReadDelay:
+0
+ReadSpeed:
+80
+ReactionDelay:
+1
+HandPoint:
+point
+WhichPage:
+Right
+CorrectionState:
+True
+
+
+
+
+# Hand move speed and read delay possible combinations 
+
+Beginner Level: 0.05 0.1 0.7 1
+
+
+Medium Level: 0.06 0.1 85 1 
+
+Medium Level: 0.075 0.03 80 1 
+
+High Level: 0.095 0 90 1"
+2017-12-04 17:19:14:753120,On or OFF:,Face Tracking is OFF
+2017-12-04 17:19:15:501887,On or OFF:,Face Tracking is ON
+2017-12-04 17:19:16:004889,Robot State:,Introduce Nao Started
+2017-12-04 17:19:18:341950,Robot State:,Looking at The Book
+2017-12-04 17:19:19:893855,Instruction:,\rspd=90\ 
+2017-12-04 17:19:20:394869,Robot State:,Introduce Nao Ended
+2017-12-04 17:19:20:615635,On or OFF:,Face Tracking is OFF
+2017-12-04 17:19:21:642849,Robot State:,Looking at The Book
+2017-12-04 17:19:22:224087,Robot State:,TaskONE Selected
+2017-12-04 17:19:23:242859,Robot State:,Looking at The Book
+2017-12-04 17:19:23:747923,Detected ARTags: ,"45, 46, 47, 48"
+2017-12-04 17:19:23:761572,Detected ARTags: ,"[ 47, 48]"
+2017-12-04 17:19:23:761459,Current State of Reading: ,False
+2017-12-04 17:19:23:769000,Detected ARTags: ,"45, 46, 47, 48"
+2017-12-04 17:19:23:770285,Detected ARTags: ,"[45, 46]"
+2017-12-04 17:19:23:770104,Current State of Reading: ,False
+2017-12-04 17:19:23:772059,Detected ARTags: ,"45, 46, 47, 48"
+2017-12-04 17:19:23:772598,Current State of Reading: ,Waiting for Red-card
+2017-12-04 17:19:23:772714,Detected ARTags: ,"[45, 46]"
+2017-12-04 17:19:24:026654,Detected ARTags: ,"45, 46, 47, 48"
+2017-12-04 17:19:24:027005,Detected ARTags: ,"[45, 46]"
+2017-12-04 17:19:24:026948,Current State of Reading: ,Waiting for Red-card
+2017-12-04 17:19:24:411393,Detected ARTags: ,"45, 46, 47, 48"
+2017-12-04 17:19:24:411842,Current State of Reading: ,Waiting for Red-card
+2017-12-04 17:19:24:411946,Detected ARTags: ,"[45, 46]"
+2017-12-04 17:19:25:548344,Body Gesture:,Pointing
+2017-12-04 17:19:25:555971,Current State of Correction: ,False
+2017-12-04 17:19:25:555833,Robot State:,Reading Mode Started
+2017-12-04 17:19:28:432401,Detected ARTags: ,"45, 46, 47, 48"
+2017-12-04 17:19:28:433391,Detected ARTags: ,"[45, 46]"
+2017-12-04 17:19:28:433705,Current State of Reading: ,Waiting for Red-card
+2017-12-04 17:19:28:908584,Detected ARTags: ,"45, 46, 47, 48"
+2017-12-04 17:19:28:909075,Current State of Reading: ,Waiting for Red-card
+2017-12-04 17:19:28:909134,Detected ARTags: ,"[45, 46]"
+2017-12-04 17:19:29:165137,Robot Hand Pose: ,"x: 0.181212872267
+y: 0.11410561949
+z: 0.207183852792
+x: 0.00954869668931
+y: 0.541989028454
+z: 0.0153406085446
+w: 1.0"
+2017-12-04 17:19:29:165610,Current Word:,\rspd=80\  They
+2017-12-04 17:19:29:168230,Robot State:,0.0
+2017-12-04 17:19:29:918564,Detected ARTags: ,"45, 46, 47, 48"
+2017-12-04 17:19:29:919604,Current State of Reading: ,Waiting for Red-card
+2017-12-04 17:19:29:919760,Detected ARTags: ,"[45, 46]"

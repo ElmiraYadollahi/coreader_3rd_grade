@@ -1,0 +1,8 @@
+<launch>  
+  <node name="read_lines_location_event" pkg="coreader_v7" type="read_lines_location_event.py" >
+     <param name="initialization_file" textfile="/home/yadollah/catkin_ws/src/story_reading_blunder/coreader_v7/nodes/TextFiles/customized_instruction.txt" />
+     <param name="stories_stage" textfile="/home/yadollah/catkin_ws/src/story_reading_blunder/coreader_v7/nodes/TextFiles/stories_stage_7_9.txt" />
+
+  </node>
+
+</launch>
